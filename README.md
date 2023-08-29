@@ -1,6 +1,6 @@
-# Project Title
+# Yelp Review Sentiment Analysis using BERT
 
-Yelp Review Sentiment Analysis using BERT
+
 
 [![Python Version](https://img.shields.io/badge/Python-3.x.x-blue)](https://www.python.org/downloads/)
 [![Transformers Version](https://img.shields.io/badge/Transformers-4.11.3-brightgreen)](https://github.com/huggingface/transformers)
